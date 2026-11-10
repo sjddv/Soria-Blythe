@@ -1,1 +1,16 @@
+<div class="container">
+ <main class="main-content">
+  <section class="content-box">
+    <h2>My Profile</h2>
 
+<div class="profile-card">
+  <img class="avatar"> src="images/meeee.webp".alt="Profile.avatar"./>
+
+<div class="profile-info">
+<h3>Blythe Nillos Soria</h3>
+<p class="role">college student | IT </p>
+<p>
+  I am an aspiring developer who enjoys learning about Technology
+  </p>
+  </div>
+  </div>
